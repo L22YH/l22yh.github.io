@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://l22yh.github.io/sitemap.xml
+Sitemap: https://l22yh.github.io/apthaja-site/sitemap.xml
