@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 메인 프로젝트 홈페이지 -->
+  <url>
+    <loc>https://l22yh.github.io/apthaja-site/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 주요 섹션들(실제로 페이지가 존재할 경우만 유효) -->
+  <url>
+    <loc>https://l22yh.github.io/apthaja-site/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://l22yh.github.io/apthaja-site/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://l22yh.github.io/apthaja-site/service</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 추가 페이지가 생기면 아래처럼 복사해서 추가하면 됨 -->
+  <!--
+  <url>
+    <loc>https://l22yh.github.io/apthaja-site/페이지명</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  -->
+
+</urlset>
